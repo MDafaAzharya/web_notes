@@ -1,12 +1,5 @@
 <script>
     import "../assets/css/index.css";
-    import Layout from '~/layouts/default.vue'; // Sesuaikan dengan jalur aktual komponen Layout
-
-export default {
-  components: {
-    Layout,
-  },
-};
 </script>
 <template>
     <div>
