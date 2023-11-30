@@ -13,7 +13,7 @@ import "../assets/css/index.css";
         <p
           class="title text-white text-lg  hidden lg:inline-block font-bold"
         >
-          Welcome Name
+          Welcome !!!
         </p>
         <!-- Form -->
         <div>
