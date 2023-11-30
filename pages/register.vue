@@ -36,7 +36,7 @@ const submitRegister = async () => {
         text: "Register Success!",
         icon: "success"
       });
-      router.push(`/dashboard`);
+      router.push(`/login`);
   }
 }
 </script>

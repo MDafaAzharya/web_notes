@@ -55,7 +55,7 @@
             </div>
             <div class="md:ml-10 ml-8 px-5">
                 <div>
-                    <h1 class="title font-bold md:text-4xl text-3xl py-3 text-sky-400 mt-5 md:mt-0">Guide to using the plugin</h1>
+                    <h1 class="title font-bold md:text-4xl text-3xl py-3 text-sky-400 mt-5 md:mt-0">Guide to using the website</h1>
                     <p class="font-medium md:text-md text-md py-2">Below is a guide or steps for using the plugin, please read and understand one by one</p>
                 </div>
                 <div class="grid md:grid-cols-1 grid-cols-1 gap-x-8 gap-y-5 pt-4">
