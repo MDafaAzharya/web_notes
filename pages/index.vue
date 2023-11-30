@@ -1,7 +1,11 @@
 <script>
     import "../assets/css/index.css";
+    import "~/components/Header";
+    import "~/components/Footer";
+
 </script>
 <template>
+    <Header/>
     <div>
         <div class="md:flex md:justify-around px-20 my-16" id="home">
             <div class="title font-sans">
@@ -75,4 +79,5 @@
             </div>
         </div>
     </div>
+    <Footer/>
 </template>
